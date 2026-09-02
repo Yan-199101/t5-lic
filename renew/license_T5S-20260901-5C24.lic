@@ -4,11 +4,11 @@
     "wm": "T5S-20260901-5C24",
     "recipient": "张家港周站",
     "fp": "90055302eeddab3fe7a490272db31a6897a7fd533efb3f20d25a549586af8ad2",
-    "issued_at": "2026-09-02T00:33:10+00:00",
-    "expires_at": "2026-09-16T00:33:10+00:00",
-    "wrapped_key": "8hi3i+wRLdGgbKPNY4n2CS4BbZCGABQ3sGrcp5tfykJVPGbJZZZdEjT8NTvcJJup/1UnYkAD7zSfi2OI",
+    "issued_at": "2026-09-02T04:23:07+00:00",
+    "expires_at": "2026-09-30T04:23:07+00:00",
+    "wrapped_key": "YDJyErbd9URn+HPI94C+atAcCOSsFrBVE/TE2T/QKJc4GtmLIZiQWkrCvGSakS9SSSIDeBn8qejoMqwM",
     "status_url": "https://raw.githubusercontent.com/Yan-199101/t5-lic/main/status.json",
     "renew_url": "https://raw.githubusercontent.com/Yan-199101/t5-lic/main/renew/license_T5S-20260901-5C24.lic"
   },
-  "sig": "TWtNmv/kTR8ATQqDm0DKMtrTlMH4uQgOoLph/PkavJeKCKi0GPvSp1RC3Ok2fZ7YeV/jOeHIQzprXRT0/yShDw=="
+  "sig": "Iy5lJ2bNgm3lYIeHjI8h0O2f5a7k2tPFBsfMXxXr7OSCcbW0OZoFkj0HNCPtmETiGyGk6QXfyQeihsiAQSpVDg=="
 }
