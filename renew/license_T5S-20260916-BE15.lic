@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "v": 1,
+    "wm": "T5S-20260916-BE15",
+    "recipient": "张家港周站-V2.6.43升级-知识卡收编版",
+    "fp": "90055302eeddab3fe7a490272db31a6897a7fd533efb3f20d25a549586af8ad2",
+    "issued_at": "2026-09-17T02:09:14+00:00",
+    "expires_at": "2026-10-30T02:09:14+00:00",
+    "wrapped_key": "PY1/UKahyE31jfFp2pKa5IIziKNwTk8G0psjXcLdE9J9qq0w346QSIF54U0Dd25C4gLnhmj7OOJLLSly",
+    "status_url": "https://raw.githubusercontent.com/Yan-199101/t5-lic/main/status.json",
+    "renew_url": "https://raw.githubusercontent.com/Yan-199101/t5-lic/main/renew/license_T5S-20260916-BE15.lic"
+  },
+  "sig": "B+jMFXjQJQr0Af2ZriTMHtdSWIfNy/tbT7U/8POkv0MukfleBMg2UBhuoddLFUAoJGwWYGQOlpgg6bZEE8c4Dw=="
+}
