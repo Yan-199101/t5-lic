@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "v": 2,
+    "wm": "T5S-20260930-96BD",
+    "recipient": "DGX1-SaaS试点",
+    "fp": "f122ac8f8c55080d4ad29f8b46f9d9513d312ec33fba83f453f2eb79555b9d66",
+    "issued_at": "2026-10-13T00:25:05+00:00",
+    "expires_at": "2026-11-08T00:25:05+00:00",
+    "rk_wrapped": "Ifo+Sq7XhinfBCj9Uae75Ayd68Zpy+auAz5n1TOtJA5s8IDZ3O4NIWiW9d9OP5iYAnCQfNFpSmdR1tgJZ8yssqdFY3PcY/2Hh8mucI7S1mu9DoMoTXCYnGY2aIo=",
+    "status_url": "https://raw.githubusercontent.com/Yan-199101/t5-lic/main/status.json",
+    "renew_url": "https://raw.githubusercontent.com/Yan-199101/t5-lic/main/renew/license_T5S-20260930-96BD.lic"
+  },
+  "sig": "xPHAYz5QQk5Vk6yI858Y1Z79d3OQWlxH/51YIek3MsQvhfQtegYtdvcn33kH+CvS81NqoNCWvK5bmD5qry1fBg=="
+}

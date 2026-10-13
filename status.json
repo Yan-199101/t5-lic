@@ -1,7 +1,9 @@
 {
   "payload": {
-    "revoked": [],
-    "updated_at": "2026-09-01T14:24:04+00:00"
+    "revoked": [
+      "T5S-20260921-7C7B"
+    ],
+    "updated_at": "2026-09-24T16:57:55+00:00"
   },
-  "sig": "DxTinSqHFKHnhngqdzo/ldCbId1pcrTR15KCuJadD1PFu/qKxh4mR2VmBLs/j5o9gvmuCv5cUG3KUWEgQhDkDw=="
+  "sig": "+S6kyfWe5J8JzZVo8FAAE5NUUnXl1nWegm27gqpVVVN4V1RGAbR/LsaBmEuieC2rS947EkU4QTaNBt7ezDg8CQ=="
 }
