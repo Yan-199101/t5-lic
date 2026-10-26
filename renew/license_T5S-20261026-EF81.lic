@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "v": 2,
+    "wm": "T5S-20261026-EF81",
+    "recipient": "张家港周站-V2.6.119对外版",
+    "fp": "90055302eeddab3fe7a490272db31a6897a7fd533efb3f20d25a549586af8ad2",
+    "issued_at": "2026-10-26T06:20:26+00:00",
+    "expires_at": "2026-12-15T06:20:26+00:00",
+    "rk_wrapped": "jbwLOmdRIxh9YaYlVCt2JUhLhNcQqGA9RJIS6tCgNFY59i5VGxRffz/Ekqo72FOaXTheUemWkROdskDCLJKl7hymH6aXsesUrp0cYd1QBkKSusSj+2rIUUiOx9c=",
+    "status_url": "https://raw.githubusercontent.com/Yan-199101/t5-lic/main/status.json",
+    "renew_url": "https://raw.githubusercontent.com/Yan-199101/t5-lic/main/renew/license_T5S-20261026-EF81.lic"
+  },
+  "sig": "bKPdY1aIAcsjJAQb4z0ohHNeJPpciZQTiXF2hQiTP8bV+huuK3qqpLszFkmHJZx3vQqChRlAFb5QoVEmgJGXDg=="
+}
